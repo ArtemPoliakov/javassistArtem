@@ -6,4 +6,6 @@ public class ArtemTest {
     // one more ok
 
     // one more addon to the master
+
+    //and again)
 }
