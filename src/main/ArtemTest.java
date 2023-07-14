@@ -4,4 +4,5 @@ public class ArtemTest {
     //this is a third commit and it is in a master branch :)
 
     // one more ok
+    //and more
 }
